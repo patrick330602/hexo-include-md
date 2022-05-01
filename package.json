@@ -1,0 +1,22 @@
+{
+  "name": "hexo-include-md",
+  "version": "1.0.0",
+  "description": "A Hexo helper function to include md file in `_source`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hexo-renderer-markdown-it": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick330602/hexo-include-md.git"
+  },
+  "author": "callmepk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrick330602/hexo-include-md/issues"
+  },
+  "homepage": "https://github.com/patrick330602/hexo-include-md#readme"
+}
