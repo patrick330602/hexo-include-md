@@ -5,4 +5,10 @@ This project requires you to use your Hexo render engine as `hexo-renderer-markd
 
 ## Usage
 
-use as a function similar to <https://hexo.io/docs/helpers>: `<%= include_md('path/to/md/file') %>`
+Install using `npm install hexo-include-md --save`.
+
+use as a function similar to <https://hexo.io/docs/helpers>; For example, in ejs, you use `<%= include_md('path/to/md/file') %>`
+
+## License
+
+MIT License.
